@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B0C6B4E28E3655B00A23F1B /* SecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0C6B4D28E3655B00A23F1B /* SecondPage.swift */; };
 		6B628EEB28E215CF001AE84D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B628EEA28E215CF001AE84D /* AppDelegate.swift */; };
 		6B628EED28E215CF001AE84D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B628EEC28E215CF001AE84D /* SceneDelegate.swift */; };
 		6B628EEF28E215CF001AE84D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B628EEE28E215CF001AE84D /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6B0C6B4D28E3655B00A23F1B /* SecondPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPage.swift; sourceTree = "<group>"; };
 		6B628EE728E215CF001AE84D /* My concious self.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My concious self.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B628EEA28E215CF001AE84D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6B628EEC28E215CF001AE84D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				6B628EEC28E215CF001AE84D /* SceneDelegate.swift */,
 				6B628EEE28E215CF001AE84D /* ViewController.swift */,
 				6B628EF028E215CF001AE84D /* Main.storyboard */,
+				6B0C6B4D28E3655B00A23F1B /* SecondPage.swift */,
 				6B628EF328E215D0001AE84D /* Assets.xcassets */,
 				6B628EF528E215D0001AE84D /* LaunchScreen.storyboard */,
 				6B628EF828E215D0001AE84D /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B0C6B4E28E3655B00A23F1B /* SecondPage.swift in Sources */,
 				6B628EEF28E215CF001AE84D /* ViewController.swift in Sources */,
 				6B628EEB28E215CF001AE84D /* AppDelegate.swift in Sources */,
 				6B628EED28E215CF001AE84D /* SceneDelegate.swift in Sources */,
